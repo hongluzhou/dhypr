@@ -2,7 +2,7 @@
 
 This is an official implementation of the CIKM 2022 paper [D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning](https://arxiv.org/abs/2112.11734). In this repository, we provide the PyTorch code for training and evaluation as described in the paper. The proposed model **Digraph Hyperbolic Networks** (D-HYPR) considers the unique node neighborhoods in digraphs with multi-scale neighborhood collaboration in hyperbolic space. D-HYPR respects asymmetric relationships of node-pairs, which is guided by sociopsychology-inspired regularizers.      
        
-D-HYPR outperforms SOTA on multiple downstream tasks including node classification, link presence prediction, and link property prediction. Particuarly, D-HYPR generates meaningful embeddings in very low dimensionalities.       
+D-HYPR outperforms SOTA on multiple downstream tasks including node classification, link presence prediction, and link property prediction. Particularly, D-HYPR generates meaningful embeddings in very low dimensionalities.       
            
    
 If you find our repo useful in your research, please use the following BibTeX entry for citation.    
