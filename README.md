@@ -1,3 +1,5 @@
+⚡️⚡️⚡️ **Winner** of [CIKM 2022 Best Paper](https://www.cikm2022.org/best-paper)! 
+
 # D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning
 
 This is an official implementation of the CIKM 2022 paper [D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning](https://arxiv.org/abs/2112.11734). In this repository, we provide the PyTorch code for training and evaluation as described in the paper. The proposed model **Digraph Hyperbolic Networks** (D-HYPR) considers the unique node neighborhoods in digraphs with multi-scale neighborhood collaboration in hyperbolic space. D-HYPR respects asymmetric relationships of node-pairs, which is guided by sociopsychology-inspired regularizers.      
