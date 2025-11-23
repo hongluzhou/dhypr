@@ -1,4 +1,4 @@
-⚡️⚡️⚡️ **Winner** of [CIKM 2022 Best Paper](https://www.cikm2022.org/best-paper)
+⚡️⚡️⚡️ **Winner** of [CIKM 2022 Best Paper](https://www.semanticscholar.org/product/scholars-hub/award-winning-ai-and-theory)
 
 # D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning
 
